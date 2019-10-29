@@ -2,6 +2,19 @@ body {
   font-family: Roboto;
 }
 
+p { 
+  line-height: 30px;
+  font-size: 12px;
+}
+
+li { 
+  line-height: 30px;
+}
+
+article { 
+  line-height: 30px;
+}
+
 .black {
   background: black;
 } 
