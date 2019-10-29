@@ -1,11 +1,8 @@
-.body { 
-  font-family: sans-serif;
-}
 
-.black-container { 
+.black {
   background: black;
-  color: white;
-}
+} 
+
 
 card-body {
   transition: opacity 0.25s ease-in-out;
