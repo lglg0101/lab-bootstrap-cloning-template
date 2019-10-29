@@ -1,4 +1,13 @@
-.card-body {
+.body { 
+  font-family: sans-serif;
+}
+
+.black-container { 
+  background: black;
+  color: white;
+}
+
+card-body {
   transition: opacity 0.25s ease-in-out;
 }
 
